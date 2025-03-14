@@ -7,7 +7,7 @@
 [Portfolio Link](#) <!-- Replace # with your actual portfolio link once it's ready -->
 
 ### 👨‍🎓 Engineering at
-![images-removebg-preview](https://github.com/user-attachments/assets/3d7e545b-9ffd-4eae-b7a7-942e8cfac1b9)
+<img src="https://github.com/user-attachments/assets/3d7e545b-9ffd-4eae-b7a7-942e8cfac1b9" alt="Engineering" width="200" />
 
 
 ### ⚡ Some Perfect Headings
