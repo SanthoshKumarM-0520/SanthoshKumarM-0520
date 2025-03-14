@@ -45,3 +45,14 @@
 </p>
 
 ---
+### 🛠 IDE and Tools I Use  
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4f/Notion_app_logo.png" width="50" height="50"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/chatgpt.svg" width="50" height="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/OpenAI_Logo.svg" width="50" height="50"/>
+</p>
+---
