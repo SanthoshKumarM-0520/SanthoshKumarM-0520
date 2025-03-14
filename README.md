@@ -3,7 +3,8 @@ Full Stack Developer
 - 💡 Self-taught IT enthusiast with a keen interest in emerging technologies and blockchain.
 - 🌟 Passionate about continuous learning, innovation, and staying ahead in the tech landscape.
 
-<img align="right" alt="Coding" width="400" src="YOUR_IMAGE_URL_HERE">
+<img align="right" alt="Coding" width="400" src="![68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b65](https://github.com/user-attachments/assets/13e5d010-c3d2-47c9-bffe-747d4f0a5f88)
+">
 
 ### 🔬 Here's my portfolio
 [Portfolio Link](#) <!-- Replace # with your actual portfolio link once it's ready -->
