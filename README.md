@@ -9,13 +9,16 @@
 ### 🔬 Here's my portfolio  
 [Portfolio Link](#) <!-- Replace # with your actual portfolio link once it's ready -->  
 
-### 👨‍🎓 Engineering at  <img src="https://github.com/user-attachments/assets/3d7e545b-9ffd-4eae-b7a7-942e8cfac1b9" alt="Engineering" width="100" />  
+### 👨‍🎓 Engineering at  
+<img src="https://github.com/user-attachments/assets/3d7e545b-9ffd-4eae-b7a7-942e8cfac1b9" alt="Engineering" width="100" />  
 
 ### ✨ About Me  
 - 🏞 Civil engineering graduate with a strong interest in technology.  
 - 📚 Passionate about learning and growing in the tech world.  
 - 🔍 Enthusiastic about problem-solving and critical thinking in technology.  
 - 🚀 Exploring the intersection of engineering and software development.  
+
+---
 
 ### 👤 Social Presence  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santhoshkumarm-baofficial/)  
@@ -28,42 +31,44 @@
 ### 🧑‍💻 I Code In  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
 </p>
 
 ---
+
 ### 🛠 IDE and Tools I Use  
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Notion-logo.svg" width="50" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"/>
 </p>
+
 ---
-<p><img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" width="20"/> <strong>Workspace Spec</strong></p>
+
+### 💻 Workspace Specs  
 
 <p>
-  <img src="https://img.shields.io/badge/Lenovo%20IdeaPad%20Gaming%203-EB0028?style=for-the-badge&logo=lenovo&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%205800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NVIDIA-GTX%206%20GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/16GB%20RAM-4CAF50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/512GB%20SSD-00599C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Windows%2011-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
-  <img src="https://img.shields.io/badge/6GB%20Graphics-0078D6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NVIDIA-RTX%203060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%205800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
 </p>
+
+---
+
+🔥 **Thanks for visiting! Let's build something awesome together!** 🚀
