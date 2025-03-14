@@ -75,10 +75,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarM-0520&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarM-0520&show_icons=true&theme=light&count_private=true" alt="GitHub Stats"/>
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarM-0520&layout=compact&theme=dark" alt="Top Languages"/>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarM-0520&layout=compact&theme=light" alt="Top Languages"/>
     </td>
   </tr>
 </table>
