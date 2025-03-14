@@ -71,5 +71,26 @@
 </p>
 
 ---
+### 📊 GitHub Stats & 💹 Top Languages  
 
-🔥 **Thanks for visiting! Let's build something awesome together!** 🚀
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=SanthoshKumarM-0520&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanthoshKumarM-0520&layout=compact&theme=dark" alt="Top Languages"/>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🏆 LeetCode Stats  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Santhosh0520?theme=light&font=Marcellus&ext=heatmap" alt="LeetCode Stats"/>
+</p>
+
+
+
+
