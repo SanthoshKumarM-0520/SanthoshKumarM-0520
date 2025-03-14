@@ -55,3 +55,15 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/ChatGPT_logo.svg" width="50" height="50"/>
 </p>
 ---
+<p><img src="https://img.icons8.com/ios-filled/50/000000/laptop.png" width="20"/> <strong>Workspace Spec</strong></p>
+
+<p>
+  <img src="https://img.shields.io/badge/Lenovo%20IdeaPad%20Gaming%203-EB0028?style=for-the-badge&logo=lenovo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AMD%20Ryzen%207%205800H-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NVIDIA-GTX%206%20GB-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/16GB%20RAM-4CAF50?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/512GB%20SSD-00599C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Windows%2011-0078D7?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MS%20Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+  <img src="https://img.shields.io/badge/6GB%20Graphics-0078D6?style=for-the-badge"/>
+</p>
