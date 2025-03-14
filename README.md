@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi there! 👋 I'm Santhosh Kumar
 
-<!--
-**SanthoshKumarM-0520/SanthoshKumarM-0520** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💡 Self-taught IT enthusiast with a keen interest in emerging technologies and blockchain.
+- 🌟 Passionate about continuous learning, innovation, and staying ahead in the tech landscape.
 
-Here are some ideas to get you started:
+### 🔬 Here's my portfolio
+[Portfolio Link](#) <!-- Replace # with your actual portfolio link once it's ready -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍🎓 Engineering at
+![images-removebg-preview](https://github.com/user-attachments/assets/3d7e545b-9ffd-4eae-b7a7-942e8cfac1b9)
+
+
+### ⚡ Some Perfect Headings
+- 🏞 Civil engineering graduate with a strong interest in technology.
+- 📚 Passionate about learning and growing in the tech world.
+
+### 👤 Social Presence
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](your-instagram-url)
+
+---
