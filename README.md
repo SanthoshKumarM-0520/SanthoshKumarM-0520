@@ -2,7 +2,7 @@
 ### Full Stack Developer  
 
 - 💡 Self-taught IT enthusiast with a keen interest in emerging technologies and blockchain.  
-- 🌟 Passionate about continuous learning, innovation, and staying ahead in the tech landscape.  
+- 🌟 Driven by a passion for continuous learning and innovation, always striving to stay ahead in the ever-evolving and fast-moving tech landscape.
 
 <img align="right" alt="Coding" width="400" src="https://github.com/user-attachments/assets/f78214f9-f0af-47c2-a26d-4d24877c358d">
 
@@ -13,10 +13,10 @@
 ### 👨‍🎓 Engineering at  <img src="https://github.com/user-attachments/assets/3d7e545b-9ffd-4eae-b7a7-942e8cfac1b9" alt="Engineering" width="100" />  
 
 ### ✨ About Me  
-- 🏞 Civil engineering graduate with a strong interest in technology.  
-- 📚 Passionate about learning and growing in the tech world.  
-- 🔍 Enthusiastic about problem-solving and critical thinking in technology.  
-- 🚀 Exploring the intersection of engineering and software development.  
+- 🛠️ A civil engineer who found his true calling in the world of technology.
+- 🌱 Constantly growing, learning and evolving.
+- 🚀 Fueled by the thrill of solving complex problems and sharp thinking in tech. 
+- 🔀 Navigating the crossroads of engineering and software development.
 
 ---
 
